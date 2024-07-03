@@ -5,7 +5,7 @@ There are 3 buttons on the main screen. When the user clicks on the "Magic Ball"
 
 **Main screen**
 
-![Main screen](https://github.com/vorobushku/app-kotlin/mainscreen.png)
+![Main screen](https://github.com/vorobushku/app-kotlin/blob/main/mainscreen.png)
 ***
 **Magic Ball**
 
