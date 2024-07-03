@@ -9,13 +9,13 @@ There are 3 buttons on the main screen. When the user clicks on the "Magic Ball"
 ***
 **Magic Ball**
 
-![MagicBall](https://github.com/vorobushku/app-kotlin/magicball1.png)
+![MagicBall](https://github.com/vorobushku/app-kotlin/blob/main/magicball1.png)
 
 **Card of the Day**
 
-![Card of the Day](https://github.com/vorobushku/app-kotlin/cardoftheday.png)
+![Card of the Day](https://github.com/vorobushku/app-kotlin/blob/main/cardoftheday.png)
 
 **Calculate fate matrix**
 
-![Date of Birth](https://github.com/vorobushku/app-kotlin/dateofbirth.png)
-![Calculate fate matrix](https://github.com/vorobushku/app-kotlin/fatematrix.png)
+![Date of Birth](https://github.com/vorobushku/app-kotlin/blob/main/dateofbirth.png)
+![Calculate fate matrix](https://github.com/vorobushku/app-kotlin/blob/main/fatematrix.png)
